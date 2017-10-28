@@ -1,19 +1,19 @@
-tipo,personas
-Entire place,2
-Entire apartment,2
-Private room in apartment,2
-Private room in apartment,2
-Entire apartment,4
-Private room in apartment,4
-Entire house,3
-Entire apartment,6
-Private room in house,3
-Private room in house,2
-Private room in house,4
-Private room in house,3
-Private room in boutique hotel,2
-Entire apartment,4
-Private room in guest suite,2
-Private room in house,2
-Entire apartment,5
-Entire apartment,5
+banios,dormitorios,camas,tipo,huespedes
+1,1,1,Entire apartment,2
+1,1,2,Entire apartment,4
+1,1,1,Private room in house,2
+5,4,7,Private room in bed & breakfast,1
+1,2,3,Entire apartment,4
+1,1,1,Private room in house,2
+1,1,1,Private room in house,2
+1,1,2,Entire apartment,3
+1,2,2,Private room in house,2
+2,2,2,Entire apartment,4
+1,1,2,Private room in house,3
+1,3,4,Entire apartment,5
+4,4,4,Entire apartment,6
+2,1,3,Private room in apartment,2
+1,1,1,Private room in house,2
+1,2,2,Entire apartment,4
+1,1,1,Entire apartment,2
+1,2,3,Entire apartment,4
